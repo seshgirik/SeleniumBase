@@ -5,7 +5,7 @@ joblib==1.0.1;python_version>="3.6"
 Markdown==3.3.4
 Jinja2==2.11.3
 readme-renderer==29.0
-pymdown-extensions==8.1.1
+pymdown-extensions==10.16.1
 lunr==0.5.8
 mkdocs==1.1.2
 mkdocs-material==6.2.3
